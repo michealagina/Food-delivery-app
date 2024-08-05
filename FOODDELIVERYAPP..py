@@ -3,9 +3,9 @@
 class FoodDeliveryApp:
     def __init__(self):
         self.menu = {
-            'Pizza': 10.00,
-            'Burger': 5.00,
-            'Salad': 7.00
+            'Chicken': 10.00,
+            'Pizza': 5.00,
+            'Soft Drink': 7.00
         }
         self.orders = []
     
